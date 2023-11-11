@@ -1,0 +1,32 @@
+#body
+.st-emotion-cache-ffhzg2 {
+    color:  rgb(182, 255, 107);
+    overflow: hidden;
+}
+.st-emotion-cache-1v0mbdj { //image
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    width: auto;
+    border: 20px inset black;
+
+}
+.st-emotion-cache-ffhzg2 {
+    position: absolute;
+    background: rgb(46 72 90);
+    color: rgb(16, 58, 228);
+    inset: 0px;
+    overflow: hidden;
+}
+st-emotion-cache-1qg05tj {
+    font-size: 14px;
+    color: rgb(93, 81, 81);
+    visibility: visible;
+    margin-bottom: 0.25rem;
+    height: auto;
+    min-height: 1.5rem;
+    vertical-align: middle;
+    flex-direction: row;
+    align-items: center;
+}
+
